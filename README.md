@@ -4,12 +4,6 @@ A clean and responsive **Recipe Page** that displays a simple omelette recipe. I
 
 ---
 
-## Preview
-
-![Recipe Page Preview](/images/preview.png)
-
----
-
 ## Features
 
 - **Responsive Design**: Adjusts to various screen sizes, ensuring a great user experience on both desktop and mobile devices.
