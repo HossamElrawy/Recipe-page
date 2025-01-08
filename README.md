@@ -6,7 +6,7 @@ A clean and responsive **Recipe Page** that displays a simple omelette recipe. I
 
 ## Preview
 
-![Recipe Page Preview](./assets/images/preview.png)
+![Recipe Page Preview](/images/preview.png)
 
 ---
 
