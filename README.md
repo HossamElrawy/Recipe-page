@@ -63,15 +63,3 @@ The CSS file is responsible for styling the page. Highlights include:
 - **Young Serif**
 
 You can find these fonts included via Google Fonts in the `<head>` of the HTML file.
-
----
-
-## Credits
-
-- Recipe inspiration: [Frontend Mentor Challenge](https://www.frontendmentor.io/)
-
----
-
-## License
-
-This project is free to use for personal or educational purposes. Attribution to the author is appreciated.
